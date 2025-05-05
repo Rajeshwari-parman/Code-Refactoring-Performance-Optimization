@@ -97,4 +97,11 @@ The application will open with a splash screen, followed by the main calculator 
 
 ## Output
 
+1. Welcome GUI
+   
+    ![Image](https://github.com/user-attachments/assets/23446d18-485b-4898-9f5a-38fa50a1917e)
+
+2. Matrix Multiplication GUI
+
+    ![Image](https://github.com/user-attachments/assets/c914b300-58d4-4389-9baa-7e53634eb27c)
 
