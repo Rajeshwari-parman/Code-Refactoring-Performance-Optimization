@@ -72,9 +72,9 @@ To install Tkinter (if not already available):
 
 Step 1: Clone the Repository
 
-    git clone https://github.com/shashanksaranr/CODE-REFACTORING-AND-PERFORMANCE-OPTIMIZATION.git
+    git clone https://github.com/Rajeshwari-parman/Code-Refactoring-Performance-Optimization.git
 
-    cd CODE-REFACTORING-AND-PERFORMANCE-OPTIMIZATION
+    cd Code-Refactoring-Performance-Optimization
 
 Step 2: Launch the App
 
