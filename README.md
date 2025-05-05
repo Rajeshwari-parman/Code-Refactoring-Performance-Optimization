@@ -2,7 +2,17 @@
 
 🧮 Overview
 
-Matrix Calculator is a desktop application built with Python and Tkinter, designed to simplify common matrix operations through an intuitive graphical interface. Whether you're a student, educator, or engineer working with linear algebra, this tool streamlines complex calculations and reduces manual errors.
+The Matrix Calculator is a Python-based desktop application developed using the Tkinter library. It offers a clean, interactive graphical interface to perform a wide range of matrix operations efficiently and accurately. Designed with simplicity and usability in mind, this application is ideal for students, teachers, and professionals who frequently work with matrices in subjects like mathematics, physics, computer science, or engineering.
+
+Manual matrix calculations can often be tedious and error-prone, especially as the matrix size increases or when performing advanced operations like matrix inversion or determinant calculation. This tool significantly reduces the effort involved by automating those tasks through a user-friendly interface. With clearly labeled buttons, pop-up input dialogs, and real-time result displays, users can focus on understanding the operations rather than worrying about computation accuracy.
+
+The application supports several key features: addition of matrices, scalar multiplication, matrix multiplication, transposition, determinant and inverse calculations—each designed to handle a variety of input sizes and edge cases. Users can also switch between light and dark mode themes, allowing for a comfortable experience during extended use. A splash screen welcomes users upon launch, adding a touch of professionalism and polish to the user journey.
+
+A standout feature of this calculator is its operation history log, which records each operation performed during the session. This log can be exported as a .txt or .csv file, providing a way to review or submit work. Additionally, users can clear the history at any time if needed.
+
+The graphical interface is powered by gui.py, while all core matrix operations are modularized in matrix.py, making the codebase well-organized and easy to maintain or extend. The project structure also includes main.py as the entry point and a detailed report on code changes and performance impact.
+
+This application not only simplifies matrix math but also serves as a great example of how Python and Tkinter can be combined to create useful desktop tools. Whether you're looking to explore GUI development or need a practical matrix utility, Matrix Calculator provides a robust solution that is easy to install, run, and use.
 
 ✨ Features
 
