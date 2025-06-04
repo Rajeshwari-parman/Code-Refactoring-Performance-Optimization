@@ -1,7 +1,5 @@
 # Code-Refactoring-Performance-Optimization
 
-NAME: RAJESHWARI B
-
 ## Description
 
 The Matrix Calculator is a Python-based desktop application developed using the Tkinter library. It offers a clean, interactive graphical interface to perform a wide range of matrix operations efficiently and accurately. Designed with simplicity and usability in mind, this application is ideal for students, teachers, and professionals who frequently work with matrices in subjects like mathematics, physics, computer science, or engineering.
